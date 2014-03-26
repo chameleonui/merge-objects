@@ -13,7 +13,9 @@ $ component install chameleonui/merge-objects
 ## API
 
 ```js
-new MergeObjects(objectA, objectB);
+var MergeObjects = require('merge-objects');
+
+var merged = new MergeObjects(objectA, objectB);
 ```
 
 ## Author(s)

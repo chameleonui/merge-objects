@@ -2,7 +2,7 @@
   "name": "merge-objects",
   "repo": "chameleonui/merge-objects",
   "description": "Recursive function which merge objectB into objectA. Returns merged objectA.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["recursive", "function", "complete", "object"],
   "dependencies": {},
   "development": {},
